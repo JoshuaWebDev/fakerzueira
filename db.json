@@ -11,7 +11,8 @@
         { "id": 9, "name": "Jalan Beepal" },
         { "id": 10, "name": "Tekomo Nakama" },
         { "id": 11, "name": "Jallim Habei" },
-        { "id": 12, "name": "Kagaro Nomuro"} 
+        { "id": 12, "name": "Kagaro Nomuro"},
+        { "id": 13, "name": "Allan Bedoura de Pinto" }
     ],
     "cities": [
         { "id": 1, "name": "Vivara Grande" },
