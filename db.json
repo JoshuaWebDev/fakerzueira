@@ -1,76 +1,27 @@
 {
     "people": [
-        {
-            "id": 1,
-            "name": "Benjamin A. Rola"
-        },
-        {
-            "id": 2,
-            "name": "Kuka Beludo"
-        },
-        {
-            "id": 3,
-            "name": "Deide Costa"
-        },
-        {
-            "id": 4,
-            "name": "Elma Maria Pinto"
-        },
-        {
-            "id": 5,
-            "name": "Jacinto Leite Aquino Rêgo"
-        },
-        {
-            "id": 6,
-            "name": "Paula Tejando"
-        },
-        {
-            "id": 7,
-            "name": "Kaio Pinto"
-        },
-        {
-            "id": 8,
-            "name": "Shana Berta"
-        },
-        {
-            "id": 9,
-            "name": "Jalan Beepal"
-        },
-        {
-            "id": 10,
-            "name": "Tekomo Nakama"
-        }
+        { "id": 1, "name": "Benjamin A. Rola" },
+        { "id": 2, "name": "Kuka Beludo" },
+        { "id": 3, "name": "Deide Costa" },
+        { "id": 4, "name": "Elma Maria Pinto" },
+        { "id": 5, "name": "Jacinto Leite Aquino Rêgo" },
+        { "id": 6, "name": "Paula Tejando" },
+        { "id": 7, "name": "Kaio Pinto" },
+        { "id": 8, "name": "Shana Berta" },
+        { "id": 9, "name": "Jalan Beepal" },
+        { "id": 10, "name": "Tekomo Nakama" },
+        { "id": 11, "name": "Jallim Habei" },
+        { "id": 12, "name": "Kagaro Nomuro"} 
     ],
     "cities": [
-        {
-            "id": 1,
-            "name": "Vivara Grande"
-        },
-        {
-            "id": 2,
-            "name": "Limetos Vara"
-        },
-        {
-            "id": 3,
-            "name": "Jabatiuma"
-        }
+        { "id": 1, "name": "Vivara Grande" },
+        { "id": 2, "name": "Limetos Vara" },
+        { "id": 3, "name": "Jabatiuma" }
     ],
     "companies": [
-        {
-            "id": 1,
-            "name": "Power Guido LTDA"
-        },
-        {
-            "id": 2,
-            "name": "Mecânica Simas Turbo ME"
-        },
-        {
-            "id": 3,
-            "name": "Locadora V. A. Silas Car"
-        },
-        {
-            "id": 4,
-            "name": "Two Pay Pal"
-        }
+        { "id": 1, "name": "Power Guido LTDA" },
+        { "id": 2, "name": "Mecânica Simas Turbo ME" },
+        { "id": 3, "name": "Locadora V. A. Silas Car" },
+        { "id": 4, "name": "Two Pay Pal" }
     ]
 }
